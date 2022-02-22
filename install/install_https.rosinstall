@@ -12,3 +12,4 @@
 - git: {local-name: gflags_catkin, uri: 'https://github.com/ethz-asl/gflags_catkin.git'}
 - git: {local-name: protobuf_catkin, uri: 'https://github.com/ethz-asl/protobuf_catkin'}
 - git: {local-name: mav_control_rw, uri: 'https://github.com/ethz-asl/mav_control_rw'}
+- git: {local-name: rotors_simulator, uri: 'https://github.com/ethz-asl/rotors_simulator.git'}
